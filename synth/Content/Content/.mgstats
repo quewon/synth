@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/quewonchin/Desktop/git/synth/synth/Content/cursor.png","/Users/quewonchin/Desktop/git/synth/synth/Content/bin/DesktopGL/Content/cursor.xnb","TextureProcessor","Texture2DContent",100,121,0.379643
+"/Users/quewonchin/Desktop/git/synth/synth/Content/pixel.png","/Users/quewonchin/Desktop/git/synth/synth/Content/bin/DesktopGL/Content/pixel.xnb","TextureProcessor","Texture2DContent",81,89,0.39785
